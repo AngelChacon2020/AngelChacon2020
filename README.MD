@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sobre mí<br>¡Hola! Soy un programador apasionado de Guatemala, recién graduado en Ingeniería en Sistemas de Información. Tengo 26 años y conocimientos básicos a intermedios en programación. Me encanta el trabajo en equipo y siempre estoy en busca de aprender nuevas tecnologías. Estoy emocionado de seguir creciendo en el mundo de la programación y contribuir a proyectos que marquen la diferencia. ¡Gracias por visitar mi perfil!
+Sobre mí<br>¡Hola! Soy un programador apasionado de Guatemala, graduado en Ingeniería en Sistemas de Información. Tengo 26 años y conocimientos básicos a intermedios en programación. Me encanta el trabajo en equipo y siempre estoy en busca de aprender nuevas tecnologías. Estoy emocionado de seguir creciendo en el mundo de la programación y contribuir a proyectos que marquen la diferencia. ¡Gracias por visitar mi perfil!
 
 
 ## 🌐 Socials:
